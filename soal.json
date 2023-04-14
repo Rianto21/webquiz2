@@ -1,0 +1,2502 @@
+[
+  {
+    "question": "Pendekatan",
+    "a": { "answer": "Approach", "correct": true },
+    "b": { "answer": "Accept", "correct": false }
+  },
+  {
+    "question": "Pengabdian",
+    "a": { "answer": "Decompose", "correct": false },
+    "b": { "answer": "Dedication", "correct": true }
+  },
+  {
+    "question": "Keabsahan",
+    "a": { "answer": "Validity", "correct": true },
+    "b": { "answer": "Invalid", "correct": false }
+  },
+  {
+    "question": "Abu",
+    "a": { "answer": "Pumpkin", "correct": false },
+    "b": { "answer": "Ash", "correct": true }
+  },
+  {
+    "question": "Acak",
+    "a": { "answer": "Random", "correct": true },
+    "b": { "answer": "Hint", "correct": false }
+  },
+  {
+    "question": "Acar",
+    "a": { "answer": "Pickles", "correct": true },
+    "b": { "answer": "Random", "correct": false }
+  },
+  {
+    "question": "Keadaan",
+    "a": { "answer": "Condition", "correct": true },
+    "b": { "answer": "Sometimes", "correct": false }
+  },
+  {
+    "question": "Mengadili",
+    "a": { "answer": "Fair", "correct": false },
+    "b": { "answer": "Judge", "correct": true }
+  },
+  {
+    "question": "Pengadilan",
+    "a": { "answer": "Court", "correct": true },
+    "b": { "answer": "Chamber", "correct": false }
+  },
+  {
+    "question": "Adil",
+    "a": { "answer": "True", "correct": false },
+    "b": { "answer": "Fair", "correct": true }
+  },
+  {
+    "question": "Pengacara",
+    "a": { "answer": "Lawsuit", "correct": false },
+    "b": { "answer": "Lawyer", "correct": true }
+  },
+  {
+    "question": "Memuji",
+    "a": { "answer": "Mistake", "correct": false },
+    "b": { "answer": "Praise", "correct": true }
+  },
+  {
+    "question": "Aib",
+    "a": { "answer": "Disgrace", "correct": true },
+    "b": { "answer": "Guidance", "correct": false }
+  },
+  {
+    "question": "Perasaan",
+    "a": { "answer": "Feel", "correct": true },
+    "b": { "answer": "Heart", "correct": false }
+  },
+  {
+    "question": "Merasakan",
+    "a": { "answer": "Curious", "correct": false },
+    "b": { "answer": "Feeling", "correct": true }
+  },
+  {
+    "question": "Emosi",
+    "a": { "answer": "Emotion", "correct": true },
+    "b": { "answer": "Friendly", "correct": false }
+  },
+  {
+    "question": "Antusias",
+    "a": { "answer": "Enthusiastic", "correct": true },
+    "b": { "answer": "Collector", "correct": false }
+  },
+  {
+    "question": "Khawatir",
+    "a": { "answer": "Worried", "correct": true },
+    "b": { "answer": "Carried", "correct": false }
+  },
+  {
+    "question": "Malu",
+    "a": { "answer": "Why", "correct": false },
+    "b": { "answer": "Shy", "correct": true }
+  },
+  {
+    "question": "Pahit",
+    "a": { "answer": "Bitter", "correct": true },
+    "b": { "answer": "Better", "correct": false }
+  },
+  {
+    "question": "Rindu",
+    "a": { "answer": "Imagine", "correct": false },
+    "b": { "answer": "Homesick", "correct": true }
+  },
+  {
+    "question": "Berterima Kasih",
+    "a": { "answer": "Thankful", "correct": true },
+    "b": { "answer": "Doubtful", "correct": false }
+  },
+  {
+    "question": "Sangat marah",
+    "a": { "answer": "Furious", "correct": true },
+    "b": { "answer": "Jealous", "correct": false }
+  },
+  {
+    "question": "Penasaran",
+    "a": { "answer": "Curious", "correct": true },
+    "b": { "answer": "Cautious", "correct": false }
+  },
+  {
+    "question": "Tertekan",
+    "a": { "answer": "Lazy", "correct": false },
+    "b": { "answer": "Stressed", "correct": true }
+  },
+  {
+    "question": "Terjebak",
+    "a": { "answer": "Trapped", "correct": true },
+    "b": { "answer": "Wrapped", "correct": false }
+  },
+  {
+    "question": "Bingung",
+    "a": { "answer": "Confused", "correct": true },
+    "b": { "answer": "Collided", "correct": false }
+  },
+  {
+    "question": "Berontak",
+    "a": { "answer": "Malicious", "correct": false },
+    "b": { "answer": "Rebellious", "correct": true }
+  },
+  {
+    "question": "Waspada",
+    "a": { "answer": "Uncertain", "correct": false },
+    "b": { "answer": "Cautious", "correct": true }
+  },
+  {
+    "question": "Terkesan",
+    "a": { "answer": "Frustrated", "correct": false },
+    "b": { "answer": "Impressed", "correct": true }
+  },
+  {
+    "question": "Bosan",
+    "a": { "answer": "Bored", "correct": true },
+    "b": { "answer": "Pleased", "correct": false }
+  },
+  {
+    "question": "Sedih",
+    "a": { "answer": "Mad", "correct": false },
+    "b": { "answer": "Sad", "correct": true }
+  },
+  {
+    "question": "Terpuruk",
+    "a": { "answer": "Disappointed", "correct": false },
+    "b": { "answer": "Down", "correct": true }
+  },
+  {
+    "question": "Agresif",
+    "a": { "answer": "Massive", "correct": false },
+    "b": { "answer": "Aggressive", "correct": true }
+  },
+  {
+    "question": "Tak terkalahkan",
+    "a": { "answer": "Unbeatable", "correct": true },
+    "b": { "answer": "Powerless", "correct": false }
+  },
+  {
+    "question": "Kecewa",
+    "a": { "answer": "Glad", "correct": false },
+    "b": { "answer": "Disappointed", "correct": true }
+  },
+  {
+    "question": "Tidak pasti",
+    "a": { "answer": "Not true", "correct": false },
+    "b": { "answer": "Uncertain", "correct": true }
+  },
+  {
+    "question": "Bangga",
+    "a": { "answer": "Happy", "correct": false },
+    "b": { "answer": "Proud", "correct": true }
+  },
+  {
+    "question": "Tergoda",
+    "a": { "answer": "Notice", "correct": false },
+    "b": { "answer": "Tempted", "correct": true }
+  },
+  {
+    "question": "Ragu",
+    "a": { "answer": "Doubtful", "correct": true },
+    "b": { "answer": "Mindful", "correct": false }
+  },
+  {
+    "question": "Pengecut",
+    "a": { "answer": "Cowardly", "correct": true },
+    "b": { "answer": "Valiant", "correct": false }
+  },
+  {
+    "question": "Senang sekali",
+    "a": { "answer": "Persuaded", "correct": false },
+    "b": { "answer": "Delighted", "correct": true }
+  },
+  {
+    "question": "Dipermalukan",
+    "a": { "answer": "Remembered", "correct": false },
+    "b": { "answer": "Humiliated", "correct": true }
+  },
+  {
+    "question": "Tidak sabar",
+    "a": { "answer": "Sedate", "correct": false },
+    "b": { "answer": "Impatient", "correct": true }
+  },
+  {
+    "question": "Pelit",
+    "a": { "answer": "Stingy", "correct": true },
+    "b": { "answer": "Philanthrope", "correct": false }
+  },
+  {
+    "question": "Keras kepala",
+    "a": { "answer": "Bold", "correct": false },
+    "b": { "answer": "Stubborn", "correct": true }
+  },
+  {
+    "question": "Canggung",
+    "a": { "answer": "Admired", "correct": false },
+    "b": { "answer": "Awkward", "correct": true }
+  },
+  {
+    "question": "Lelah",
+    "a": { "answer": "Tireless", "correct": false },
+    "b": { "answer": "Exhausted", "correct": true }
+  },
+  {
+    "question": "Puas",
+    "a": { "answer": "Corrected", "correct": false },
+    "b": { "answer": "Satisfied", "correct": true }
+  },
+  {
+    "question": "Gelisah",
+    "a": { "answer": "Confident", "correct": false },
+    "b": { "answer": "Anxious", "correct": true }
+  },
+  {
+    "question": "Menderita",
+    "a": { "answer": "Miserable", "correct": true },
+    "b": { "answer": "Durable", "correct": false }
+  },
+  {
+    "question": "Egois",
+    "a": { "answer": "Selfish", "correct": true },
+    "b": { "answer": "Selves", "correct": false }
+  },
+  {
+    "question": "Terkejut",
+    "a": { "answer": "Shockwave", "correct": false },
+    "b": { "answer": "Shocked", "correct": true }
+  },
+  {
+    "question": "Percaya diri",
+    "a": { "answer": "Confirmed", "correct": false },
+    "b": { "answer": "Confident", "correct": true }
+  },
+  {
+    "question": "Murung",
+    "a": { "answer": "Impressed", "correct": false },
+    "b": { "answer": "Depressed", "correct": true }
+  },
+  {
+    "question": "Gundah",
+    "a": { "answer": "Offside", "correct": false },
+    "b": { "answer": "Upset", "correct": true }
+  },
+  {
+    "question": "Tenang",
+    "a": { "answer": "Sit down", "correct": false },
+    "b": { "answer": "Calm", "correct": true }
+  },
+  {
+    "question": "Terbebani",
+    "a": { "answer": "Responsibility", "correct": false },
+    "b": { "answer": "Burdened", "correct": true }
+  },
+  {
+    "question": "Energik",
+    "a": { "answer": "Energetic", "correct": true },
+    "b": { "answer": "Vigor", "correct": false }
+  },
+  {
+    "question": "Beruntung",
+    "a": { "answer": "Fortuner", "correct": false },
+    "b": { "answer": "Fortunate", "correct": true }
+  },
+  {
+    "question": "Khawatir",
+    "a": { "answer": "Concerned", "correct": true },
+    "b": { "answer": "Concrete", "correct": false }
+  },
+  {
+    "question": "Cemburu",
+    "a": { "answer": "Conscious", "correct": false },
+    "b": { "answer": "Jealous", "correct": true }
+  },
+  {
+    "question": "Marah",
+    "a": { "answer": "Hungry", "correct": false },
+    "b": { "answer": "Angry", "correct": true }
+  },
+  {
+    "question": "Takut",
+    "a": { "answer": "Valiant", "correct": false },
+    "b": { "answer": "Afraid", "correct": true }
+  },
+  {
+    "question": "Nyaman",
+    "a": { "answer": "Durable", "correct": false },
+    "b": { "answer": "Comfortable", "correct": true }
+  },
+  {
+    "question": "Gugup",
+    "a": { "answer": "Nerveous", "correct": true },
+    "b": { "answer": "Serious", "correct": false }
+  },
+  {
+    "question": "Akuntan",
+    "a": { "answer": "Account", "correct": false },
+    "b": { "answer": "Accountant", "correct": true }
+  },
+  {
+    "question": "Arsitek",
+    "a": { "answer": "Technician", "correct": false },
+    "b": { "answer": "Architect", "correct": true }
+  },
+  {
+    "question": "Aktivis",
+    "a": { "answer": "Activist", "correct": true },
+    "b": { "answer": "Activity", "correct": false }
+  },
+  {
+    "question": "Aktor",
+    "a": { "answer": "Celebrities", "correct": false },
+    "b": { "answer": "Actor", "correct": true }
+  },
+  {
+    "question": "Penasihat",
+    "a": { "answer": "Adress", "correct": false },
+    "b": { "answer": "Adviser", "correct": true }
+  },
+  {
+    "question": "Agen",
+    "a": { "answer": "Latency", "correct": false },
+    "b": { "answer": "Agency", "correct": true }
+  },
+  {
+    "question": "Pengarang",
+    "a": { "answer": "Deposite", "correct": false },
+    "b": { "answer": "Author", "correct": true }
+  },
+  {
+    "question": "Sopir bus",
+    "a": { "answer": "Bus driver", "correct": true },
+    "b": { "answer": "Driver", "correct": false }
+  },
+  {
+    "question": "Tukang kayu",
+    "a": { "answer": "Carpenter", "correct": true },
+    "b": { "answer": "Woody", "correct": false }
+  },
+  {
+    "question": "Koki",
+    "a": { "answer": "Chef", "correct": true },
+    "b": { "answer": "Chief", "correct": false }
+  },
+  {
+    "question": "Dokter gigi",
+    "a": { "answer": "Dentist", "correct": true },
+    "b": { "answer": "Dermal", "correct": false }
+  },
+  {
+    "question": "Insinyur",
+    "a": { "answer": "Engineer", "correct": true },
+    "b": { "answer": "Inventor", "correct": false }
+  },
+  {
+    "question": "Petani",
+    "a": { "answer": "Fisherman", "correct": false },
+    "b": { "answer": "Farmer", "correct": true }
+  },
+  {
+    "question": "Pemadam kebakaran",
+    "a": { "answer": "Fire force", "correct": false },
+    "b": { "answer": "Firefighter", "correct": true }
+  },
+  {
+    "question": "Nelayan",
+    "a": { "answer": "Fishing", "correct": false },
+    "b": { "answer": "Fisherman", "correct": true }
+  },
+  {
+    "question": "Penjual bunga",
+    "a": { "answer": "Florist", "correct": true },
+    "b": { "answer": "Flowers", "correct": false }
+  },
+  {
+    "question": "Tukang Kebun",
+    "a": { "answer": "Field", "correct": false },
+    "b": { "answer": "Gardener", "correct": true }
+  },
+  {
+    "question": "Penata rambut",
+    "a": { "answer": "Hairdresser", "correct": true },
+    "b": { "answer": "Hairless", "correct": false }
+  },
+  {
+    "question": "Wartawan",
+    "a": { "answer": "Opposition", "correct": false },
+    "b": { "answer": "Journalist", "correct": true }
+  },
+  {
+    "question": "Dosen",
+    "a": { "answer": "Lecturer", "correct": true },
+    "b": { "answer": "Teacher", "correct": false }
+  },
+  {
+    "question": "Guru",
+    "a": { "answer": "Principal", "correct": false },
+    "b": { "answer": "Teacher", "correct": true }
+  },
+  {
+    "question": "Pustakawan",
+    "a": { "answer": "Library", "correct": false },
+    "b": { "answer": "Librarian", "correct": true }
+  },
+  {
+    "question": "Penjaga pantai",
+    "a": { "answer": "Lifeguard", "correct": true },
+    "b": { "answer": "Coast", "correct": false }
+  },
+  {
+    "question": "Montir",
+    "a": { "answer": "Dealer", "correct": false },
+    "b": { "answer": "Mechanic", "correct": true }
+  },
+  {
+    "question": "Polisi",
+    "a": { "answer": "Police", "correct": true },
+    "b": { "answer": "Army", "correct": false }
+  },
+  {
+    "question": "Tentara",
+    "a": { "answer": "Squad", "correct": false },
+    "b": { "answer": "Soldier", "correct": true }
+  },
+  {
+    "question": "Perawat",
+    "a": { "answer": "Caretaker", "correct": false },
+    "b": { "answer": "Nurse", "correct": true }
+  },
+  {
+    "question": "Pegawai Negeri Sipil",
+    "a": { "answer": "Employee", "correct": false },
+    "b": { "answer": "Civil Servant ", "correct": true }
+  },
+  {
+    "question": "Wirausaha",
+    "a": { "answer": "Entrepreneur", "correct": true },
+    "b": { "answer": "Seller", "correct": false }
+  },
+  {
+    "question": "Profesor",
+    "a": { "answer": "Dean", "correct": false },
+    "b": { "answer": "Professor", "correct": true }
+  },
+  {
+    "question": "Penyanyi",
+    "a": { "answer": "Speaker", "correct": false },
+    "b": { "answer": "Singer", "correct": true }
+  },
+  {
+    "question": "Penulis",
+    "a": { "answer": "Reader", "correct": false },
+    "b": { "answer": "Writer", "correct": true }
+  },
+  {
+    "question": "Kepala sekolah",
+    "a": { "answer": "Chief", "correct": false },
+    "b": { "answer": "Principal", "correct": true }
+  },
+  {
+    "question": "Film",
+    "a": { "answer": "Video", "correct": false },
+    "b": { "answer": "Movie", "correct": true }
+  },
+  {
+    "question": "Tiket",
+    "a": { "answer": "Voucher", "correct": false },
+    "b": { "answer": "Ticket", "correct": true }
+  },
+  {
+    "question": "Bioskop",
+    "a": { "answer": "Cinema", "correct": true },
+    "b": { "answer": "Gynasium", "correct": false }
+  },
+  {
+    "question": "Adegan",
+    "a": { "answer": "Plot", "correct": false },
+    "b": { "answer": "Scene", "correct": true }
+  },
+  {
+    "question": "Layar",
+    "a": { "answer": "Screen", "correct": true },
+    "b": { "answer": "Scene", "correct": false }
+  },
+  {
+    "question": "Tempat duduk",
+    "a": { "answer": "Seat", "correct": true },
+    "b": { "answer": "Table", "correct": false }
+  },
+  {
+    "question": "Bakat",
+    "a": { "answer": "Talent", "correct": true },
+    "b": { "answer": "Privileges", "correct": false }
+  },
+  {
+    "question": "Penampilan",
+    "a": { "answer": "Closure", "correct": false },
+    "b": { "answer": "Appearance", "correct": true }
+  },
+  {
+    "question": "Hadiah",
+    "a": { "answer": "Present", "correct": true },
+    "b": { "answer": "Souvenir", "correct": false }
+  },
+  {
+    "question": "Sakit kepala",
+    "a": { "answer": "Headless", "correct": false },
+    "b": { "answer": "Headache", "correct": true }
+  },
+  {
+    "question": "Demam",
+    "a": { "answer": "Fever", "correct": true },
+    "b": { "answer": "Recuperate", "correct": false }
+  },
+  {
+    "question": "Luka",
+    "a": { "answer": "Wound", "correct": true },
+    "b": { "answer": "Hurt", "correct": false }
+  },
+  {
+    "question": "Mual",
+    "a": { "answer": "Congested", "correct": false },
+    "b": { "answer": "Nauseous", "correct": true }
+  },
+  {
+    "question": "Perban",
+    "a": { "answer": "Advantage", "correct": false },
+    "b": { "answer": "Bandage", "correct": true }
+  },
+  {
+    "question": "Obat",
+    "a": { "answer": "Inject", "correct": false },
+    "b": { "answer": "Drug", "correct": true }
+  },
+  {
+    "question": "Pembedahan",
+    "a": { "answer": "Surgery", "correct": true },
+    "b": { "answer": "Healed", "correct": false }
+  },
+  {
+    "question": "Resep obat",
+    "a": { "answer": "Prescription", "correct": false },
+    "b": { "answer": "Recipebook", "correct": true }
+  },
+  {
+    "question": "Rawat inap",
+    "a": { "answer": "Outpatient", "correct": false },
+    "b": { "answer": "Inpatient", "correct": true }
+  },
+  {
+    "question": "Rawat jalan",
+    "a": { "answer": "Treatment", "correct": false },
+    "b": { "answer": "Outpatient", "correct": true }
+  },
+  {
+    "question": "Penyakit",
+    "a": { "answer": "Pain", "correct": true },
+    "b": { "answer": "Disease", "correct": false }
+  },
+  {
+    "question": "Kehamilan",
+    "a": { "answer": "Birth", "correct": false },
+    "b": { "answer": "Pregnancy", "correct": true }
+  },
+  {
+    "question": "Menerima",
+    "a": { "answer": "Agree", "correct": false },
+    "b": { "answer": "Accept", "correct": true }
+  },
+  {
+    "question": "Bertindak",
+    "a": { "answer": "Going", "correct": false },
+    "b": { "answer": "Act", "correct": true }
+  },
+  {
+    "question": "Meraih",
+    "a": { "answer": "Achieve", "correct": true },
+    "b": { "answer": "Raise", "correct": false }
+  },
+  {
+    "question": "Mengagumi",
+    "a": { "answer": "Admire", "correct": true },
+    "b": { "answer": "Feel", "correct": false }
+  },
+  {
+    "question": "Mempengaruhi",
+    "a": { "answer": "Sense", "correct": false },
+    "b": { "answer": "Affect", "correct": true }
+  },
+  {
+    "question": "Setuju",
+    "a": { "answer": "Agree", "correct": true },
+    "b": { "answer": "Disagree", "correct": false }
+  },
+  {
+    "question": "Kagum",
+    "a": { "answer": "Amaze", "correct": true },
+    "b": { "answer": "Enjoy", "correct": false }
+  },
+  {
+    "question": "Menarik perhatian",
+    "a": { "answer": "Ignore", "correct": false },
+    "b": { "answer": "Amuse", "correct": true }
+  },
+  {
+    "question": "Menjawab",
+    "a": { "answer": "Answer", "correct": true },
+    "b": { "answer": "Speak", "correct": false }
+  },
+  {
+    "question": "Muncul",
+    "a": { "answer": "Vanish", "correct": false },
+    "b": { "answer": "Appear", "correct": true }
+  },
+  {
+    "question": "Mengatur",
+    "a": { "answer": "Arrange", "correct": true },
+    "b": { "answer": "Arrive", "correct": false }
+  },
+  {
+    "question": "Sampai",
+    "a": { "answer": "Arrive", "correct": true },
+    "b": { "answer": "Admire", "correct": false }
+  },
+  {
+    "question": "Bertanya",
+    "a": { "answer": "Ask", "correct": true },
+    "b": { "answer": "Talk", "correct": false }
+  },
+  {
+    "question": "Menyerang",
+    "a": { "answer": "Give up", "correct": false },
+    "b": { "answer": "Attack", "correct": true }
+  },
+  {
+    "question": "Berkelakuan",
+    "a": { "answer": "Behave", "correct": true },
+    "b": { "answer": "Believe", "correct": false }
+  },
+  {
+    "question": "Percaya",
+    "a": { "answer": "Believe", "correct": true },
+    "b": { "answer": "Relieve", "correct": false }
+  },
+  {
+    "question": "Menyalahkan",
+    "a": { "answer": "Kind", "correct": false },
+    "b": { "answer": "Blame", "correct": true }
+  },
+  {
+    "question": "Meminjam",
+    "a": { "answer": "Sorrow", "correct": false },
+    "b": { "answer": "Borrow", "correct": true }
+  },
+  {
+    "question": "Mengganggu",
+    "a": { "answer": "Behave", "correct": false },
+    "b": { "answer": "Bother", "correct": true }
+  },
+  {
+    "question": "Menelepon",
+    "a": { "answer": "Act", "correct": false },
+    "b": { "answer": "Call", "correct": true }
+  },
+  {
+    "question": "Membatalkan",
+    "a": { "answer": "Cancel", "correct": true },
+    "b": { "answer": "Retry", "correct": false }
+  },
+  {
+    "question": "Membawa",
+    "a": { "answer": "Drop", "correct": false },
+    "b": { "answer": "Carry", "correct": true }
+  },
+  {
+    "question": "Menyebabkan",
+    "a": { "answer": "Cause", "correct": true },
+    "b": { "answer": "Bother", "correct": false }
+  },
+  {
+    "question": "Merayakan",
+    "a": { "answer": "Celebrate", "correct": true },
+    "b": { "answer": "Happy", "correct": false }
+  },
+  {
+    "question": "Membersihkan",
+    "a": { "answer": "Clean", "correct": true },
+    "b": { "answer": "Mess", "correct": false }
+  },
+  {
+    "question": "Mendaki",
+    "a": { "answer": "Walk", "correct": false },
+    "b": { "answer": "Climb", "correct": true }
+  },
+  {
+    "question": "Melengkapi",
+    "a": { "answer": "Complete", "correct": true },
+    "b": { "answer": "Less", "correct": false }
+  },
+  {
+    "question": "Membandingkan",
+    "a": { "answer": "Compare", "correct": true },
+    "b": { "answer": "Complain", "correct": false }
+  },
+  {
+    "question": "Membenarkan",
+    "a": { "answer": "Jutify", "correct": true },
+    "b": { "answer": "Correct", "correct": false }
+  },
+  {
+    "question": "Menyebrang",
+    "a": { "answer": "Count", "correct": false },
+    "b": { "answer": "Cross", "correct": true }
+  },
+  {
+    "question": "Mengandung",
+    "a": { "answer": "Contain", "correct": true },
+    "b": { "answer": "Fill", "correct": false }
+  },
+  {
+    "question": "Melanjutkan",
+    "a": { "answer": "Continue", "correct": true },
+    "b": { "answer": "Compete", "correct": false }
+  },
+  {
+    "question": "Menghitung",
+    "a": { "answer": "Count", "correct": true },
+    "b": { "answer": "Cough", "correct": false }
+  },
+  {
+    "question": "Menciptakan",
+    "a": { "answer": "Create", "correct": true },
+    "b": { "answer": "Crash", "correct": false }
+  },
+  {
+    "question": "Mengubah",
+    "a": { "answer": "Chase", "correct": false },
+    "b": { "answer": "Change", "correct": true }
+  },
+  {
+    "question": "Mengejar",
+    "a": { "answer": "Chase", "correct": true },
+    "b": { "answer": "Check", "correct": false }
+  },
+  {
+    "question": "Mengobrol",
+    "a": { "answer": "Call", "correct": false },
+    "b": { "answer": "Chat", "correct": true }
+  },
+  {
+    "question": "Memeriksa",
+    "a": { "answer": "Chase", "correct": false },
+    "b": { "answer": "Check", "correct": true }
+  },
+  {
+    "question": "Merusak",
+    "a": { "answer": "Damage", "correct": true },
+    "b": { "answer": "fix", "correct": false }
+  },
+  {
+    "question": "Menari",
+    "a": { "answer": "Dance", "correct": true },
+    "b": { "answer": "Decide", "correct": false }
+  },
+  {
+    "question": "Berkencan",
+    "a": { "answer": "Date", "correct": true },
+    "b": { "answer": "Together", "correct": false }
+  },
+  {
+    "question": "Memutuskan",
+    "a": { "answer": "Demand", "correct": false },
+    "b": { "answer": "Decide", "correct": true }
+  },
+  {
+    "question": "Mengirim",
+    "a": { "answer": "Deliver", "correct": true },
+    "b": { "answer": "Describe", "correct": false }
+  },
+  {
+    "question": "Bergantung",
+    "a": { "answer": "Climb", "correct": true },
+    "b": { "answer": "Depend", "correct": false }
+  },
+  {
+    "question": "Menggambarkan",
+    "a": { "answer": "Describe", "correct": true },
+    "b": { "answer": "Write", "correct": false }
+  },
+  {
+    "question": "Merancang",
+    "a": { "answer": "Sign", "correct": false },
+    "b": { "answer": "Design", "correct": true }
+  },
+  {
+    "question": "Tidak setuju",
+    "a": { "answer": "No", "correct": false },
+    "b": { "answer": "Disagree", "correct": true }
+  },
+  {
+    "question": "Menemukan",
+    "a": { "answer": "Discover", "correct": true },
+    "b": { "answer": "Meeting", "correct": false }
+  },
+  {
+    "question": "Berdiskusi",
+    "a": { "answer": "Distrub", "correct": false },
+    "b": { "answer": "Discuss", "correct": true }
+  },
+  {
+    "question": "Mengganggu",
+    "a": { "answer": "Disturb", "correct": true },
+    "b": { "answer": "Dismiss", "correct": false }
+  },
+  {
+    "question": "Berpakaian",
+    "a": { "answer": "Dress", "correct": true },
+    "b": { "answer": "Pants", "correct": false }
+  },
+  {
+    "question": "Mengeringkan",
+    "a": { "answer": "Dry", "correct": true },
+    "b": { "answer": "Fry", "correct": false }
+  },
+  {
+    "question": "Mengakhiri",
+    "a": { "answer": "End", "correct": true },
+    "b": { "answer": "Continue", "correct": false }
+  },
+  {
+    "question": "Menikmati",
+    "a": { "answer": "Enjoy", "correct": true },
+    "b": { "answer": "Happen", "correct": false }
+  },
+  {
+    "question": "Berolahraga",
+    "a": { "answer": "Exercise", "correct": true },
+    "b": { "answer": "Express", "correct": false }
+  },
+  {
+    "question": "Mengharapkan",
+    "a": { "answer": "Expect", "correct": true },
+    "b": { "answer": "Dream", "correct": false }
+  },
+  {
+    "question": "Mengekspresikan",
+    "a": { "answer": "Entertain", "correct": false },
+    "b": { "answer": "Express", "correct": true }
+  },
+  {
+    "question": "Membuat film",
+    "a": { "answer": "Filmed", "correct": true },
+    "b": { "answer": "View", "correct": false }
+  },
+  {
+    "question": "Mengisi",
+    "a": { "answer": "Fill", "correct": true },
+    "b": { "answer": "Feel", "correct": false }
+  },
+  {
+    "question": "Memancing",
+    "a": { "answer": "Swiming", "correct": false },
+    "b": { "answer": "Fishing", "correct": true }
+  },
+  {
+    "question": "Memperbaiki",
+    "a": { "answer": "Fix", "correct": true },
+    "b": { "answer": "Ruin", "correct": false }
+  },
+  {
+    "question": "Mengikuti",
+    "a": { "answer": "Follow", "correct": true },
+    "b": { "answer": "Behind", "correct": false }
+  },
+  {
+    "question": "Membekukan",
+    "a": { "answer": "Freeze", "correct": true },
+    "b": { "answer": "Ice", "correct": false }
+  },
+  {
+    "question": "Menggoreng",
+    "a": { "answer": "Fry", "correct": true },
+    "b": { "answer": "Fly", "correct": false }
+  },
+  {
+    "question": "Menyapa",
+    "a": { "answer": "Greet", "correct": true },
+    "b": { "answer": "Meet", "correct": false }
+  },
+  {
+    "question": "Mengatasi",
+    "a": { "answer": "Handle", "correct": true },
+    "b": { "answer": "Guess", "correct": false }
+  },
+  {
+    "question": "Terjadi",
+    "a": { "answer": "Happen", "correct": true },
+    "b": { "answer": "Happy", "correct": false }
+  },
+  {
+    "question": "Membenci",
+    "a": { "answer": "Hate", "correct": true },
+    "b": { "answer": "Mate", "correct": false }
+  },
+  {
+    "question": "Membantu",
+    "a": { "answer": "Join", "correct": false },
+    "b": { "answer": "Help", "correct": true }
+  },
+  {
+    "question": "Berharap",
+    "a": { "answer": "Hepless", "correct": false },
+    "b": { "answer": "Hope", "correct": true }
+  },
+  {
+    "question": "Berburu",
+    "a": { "answer": "Hunt", "correct": true },
+    "b": { "answer": "Mount", "correct": false }
+  },
+  {
+    "question": "Mengabaikan",
+    "a": { "answer": "Ignore", "correct": true },
+    "b": { "answer": "Ignite", "correct": false }
+  },
+  {
+    "question": "Membayangkan",
+    "a": { "answer": "Express", "correct": false },
+    "b": { "answer": "Imagine", "correct": true }
+  },
+  {
+    "question": "Mengesankan",
+    "a": { "answer": "Impress", "correct": true },
+    "b": { "answer": "Applause", "correct": false }
+  },
+  {
+    "question": "Termasuk",
+    "a": { "answer": "Include", "correct": true },
+    "b": { "answer": "Increase", "correct": false }
+  },
+  {
+    "question": "Meningkatkan",
+    "a": { "answer": "Increase", "correct": true },
+    "b": { "answer": "Disease", "correct": false }
+  },
+  {
+    "question": "Mewawancarai",
+    "a": { "answer": "Interview", "correct": true },
+    "b": { "answer": "Viewing", "correct": false }
+  },
+  {
+    "question": "Mengenalkan",
+    "a": { "answer": "Allow", "correct": false },
+    "b": { "answer": "Introduce", "correct": true }
+  },
+  {
+    "question": "Mengundang",
+    "a": { "answer": "Invite", "correct": true },
+    "b": { "answer": "Come", "correct": false }
+  },
+  {
+    "question": "Bergabung",
+    "a": { "answer": "Join", "correct": true },
+    "b": { "answer": "Depend", "correct": false }
+  },
+  {
+    "question": "Melompat",
+    "a": { "answer": "Jump", "correct": true },
+    "b": { "answer": "Jog", "correct": false }
+  },
+  {
+    "question": "Mengetuk",
+    "a": { "answer": "Punch", "correct": false },
+    "b": { "answer": "Knock", "correct": true }
+  },
+  {
+    "question": "Menandai",
+    "a": { "answer": "Mark", "correct": true },
+    "b": { "answer": "Pass", "correct": false }
+  },
+  {
+    "question": "Mendarat",
+    "a": { "answer": "Hop", "correct": false },
+    "b": { "answer": "Land", "correct": true }
+  },
+  {
+    "question": "Mempelajari",
+    "a": { "answer": "Learn", "correct": true },
+    "b": { "answer": "Earn", "correct": false }
+  },
+  {
+    "question": "Menyukai",
+    "a": { "answer": "Lake", "correct": false },
+    "b": { "answer": "Like", "correct": true }
+  },
+  {
+    "question": "Menghubungkan",
+    "a": { "answer": "Relationship", "correct": false },
+    "b": { "answer": "Link", "correct": true }
+  },
+  {
+    "question": "Mendengarkan",
+    "a": { "answer": "Listen", "correct": true },
+    "b": { "answer": "Ignore", "correct": false }
+  },
+  {
+    "question": "Tinggal",
+    "a": { "answer": "Stay", "correct": true },
+    "b": { "answer": "Offer", "correct": false }
+  },
+  {
+    "question": "Melihat",
+    "a": { "answer": "Look", "correct": true },
+    "b": { "answer": "Hear", "correct": false }
+  },
+  {
+    "question": "Mencintai",
+    "a": { "answer": "Love", "correct": true },
+    "b": { "answer": "Lame", "correct": false }
+  },
+  {
+    "question": "Mengatur",
+    "a": { "answer": "Persuasion", "correct": false },
+    "b": { "answer": "Manage", "correct": true }
+  },
+  {
+    "question": "Menyebutkan",
+    "a": { "answer": "Mention", "correct": true },
+    "b": { "answer": "Attention", "correct": false }
+  },
+  {
+    "question": "Merindukan",
+    "a": { "answer": "Miss", "correct": true },
+    "b": { "answer": "Kiss", "correct": false }
+  },
+  {
+    "question": "Bergerak",
+    "a": { "answer": "Run", "correct": false },
+    "b": { "answer": "Move", "correct": true }
+  },
+  {
+    "question": "Menamai",
+    "a": { "answer": "Name", "correct": true },
+    "b": { "answer": "Speak", "correct": false }
+  },
+  {
+    "question": "Membutuhkan",
+    "a": { "answer": "Heed", "correct": false },
+    "b": { "answer": "Need", "correct": true }
+  },
+  {
+    "question": "Mencatat",
+    "a": { "answer": "Note", "correct": true },
+    "b": { "answer": "Wipe", "correct": false }
+  },
+  {
+    "question": "Memperhatikan",
+    "a": { "answer": "Heed", "correct": false },
+    "b": { "answer": "Notice", "correct": true }
+  },
+  {
+    "question": "Menawarkan",
+    "a": { "answer": "Offer", "correct": true },
+    "b": { "answer": "Behold", "correct": false }
+  },
+  {
+    "question": "Membuka",
+    "a": { "answer": "Order", "correct": false },
+    "b": { "answer": "Open", "correct": true }
+  },
+  {
+    "question": "Memesan",
+    "a": { "answer": "Order", "correct": true },
+    "b": { "answer": "Offer", "correct": false }
+  },
+  {
+    "question": "Mengatur",
+    "a": { "answer": "Organize", "correct": true },
+    "b": { "answer": "Participate", "correct": false }
+  },
+  {
+    "question": "Mengecat",
+    "a": { "answer": "Paint", "correct": true },
+    "b": { "answer": "Faint", "correct": false }
+  },
+  {
+    "question": "Tampil",
+    "a": { "answer": "Shout", "correct": false },
+    "b": { "answer": "Perform", "correct": true }
+  },
+  {
+    "question": "Membujuk",
+    "a": { "answer": "Persuade", "correct": true },
+    "b": { "answer": "Force", "correct": false }
+  },
+  {
+    "question": "Memetik",
+    "a": { "answer": "Cut", "correct": false },
+    "b": { "answer": "Pick", "correct": true }
+  },
+  {
+    "question": "Berencana",
+    "a": { "answer": "Plan", "correct": true },
+    "b": { "answer": "Play", "correct": false }
+  },
+  {
+    "question": "Bermain",
+    "a": { "answer": "Plan", "correct": false },
+    "b": { "answer": "Play", "correct": true }
+  },
+  {
+    "question": "Mempersilahkan",
+    "a": { "answer": "Go", "correct": false },
+    "b": { "answer": "Please", "correct": true }
+  },
+  {
+    "question": "Berlatih",
+    "a": { "answer": "Fight", "correct": false },
+    "b": { "answer": "Practice", "correct": true }
+  },
+  {
+    "question": "Memprediksi",
+    "a": { "answer": "Predict", "correct": true },
+    "b": { "answer": "Promise", "correct": false }
+  },
+  {
+    "question": "Mempresentasikan",
+    "a": { "answer": "Present", "correct": true },
+    "b": { "answer": "Reckless", "correct": false }
+  },
+  {
+    "question": "Melindungi",
+    "a": { "answer": "Persuade", "correct": false },
+    "b": { "answer": "Protect", "correct": true }
+  },
+  {
+    "question": "Menyediakan",
+    "a": { "answer": "Provide", "correct": true },
+    "b": { "answer": "Participate", "correct": false }
+  },
+  {
+    "question": "Membeli",
+    "a": { "answer": "Pick", "correct": false },
+    "b": { "answer": "Purchase", "correct": true }
+  },
+  {
+    "question": "Mendorong",
+    "a": { "answer": "Push", "correct": true },
+    "b": { "answer": "Retreat", "correct": false }
+  },
+  {
+    "question": "Menerima",
+    "a": { "answer": "Repeat", "correct": false },
+    "b": { "answer": "Receive", "correct": true }
+  },
+  {
+    "question": "Terhubung",
+    "a": { "answer": "Connected", "correct": true },
+    "b": { "answer": "Literally", "correct": false }
+  },
+  {
+    "question": "Membebaskan",
+    "a": { "answer": "Repair", "correct": true },
+    "b": { "answer": "Release", "correct": false }
+  },
+  {
+    "question": "Mengingat",
+    "a": { "answer": "Remember", "correct": true },
+    "b": { "answer": "Recruit", "correct": false }
+  },
+  {
+    "question": "Memperbaiki",
+    "a": { "answer": "Response", "correct": false },
+    "b": { "answer": "Repair", "correct": true }
+  },
+  {
+    "question": "Mengulang",
+    "a": { "answer": "Repeat", "correct": true },
+    "b": { "answer": "Retreat", "correct": false }
+  },
+  {
+    "question": "Melawan",
+    "a": { "answer": "Resist", "correct": true },
+    "b": { "answer": "Return", "correct": false }
+  },
+  {
+    "question": "Beristirahat",
+    "a": { "answer": "Rent", "correct": false },
+    "b": { "answer": "Rest", "correct": true }
+  },
+  {
+    "question": "Kembali",
+    "a": { "answer": "Return", "correct": true },
+    "b": { "answer": "Remake", "correct": false }
+  },
+  {
+    "question": "Ulasan",
+    "a": { "answer": "Hatred", "correct": false },
+    "b": { "answer": "Review", "correct": true }
+  },
+  {
+    "question": "Berlayar",
+    "a": { "answer": "Sail", "correct": true },
+    "b": { "answer": "Mail", "correct": false }
+  },
+  {
+    "question": "Menyimpan",
+    "a": { "answer": "Save", "correct": true },
+    "b": { "answer": "Move", "correct": false }
+  },
+  {
+    "question": "Membagi",
+    "a": { "answer": "Need", "correct": false },
+    "b": { "answer": "Share", "correct": true }
+  },
+  {
+    "question": "Berteriak",
+    "a": { "answer": "Mouth", "correct": false },
+    "b": { "answer": "Shout", "correct": true }
+  },
+  {
+    "question": "Bersin",
+    "a": { "answer": "Sneeze", "correct": true },
+    "b": { "answer": "Ache", "correct": false }
+  },
+  {
+    "question": "Memecahkan",
+    "a": { "answer": "Spell", "correct": false },
+    "b": { "answer": "Solve", "correct": true }
+  },
+  {
+    "question": "Mengeja",
+    "a": { "answer": "Step", "correct": false },
+    "b": { "answer": "Spell", "correct": true }
+  },
+  {
+    "question": "Memulai",
+    "a": { "answer": "Start", "correct": true },
+    "b": { "answer": "Suprise", "correct": false }
+  },
+  {
+    "question": "Menginjakkan",
+    "a": { "answer": "Walk", "correct": false },
+    "b": { "answer": "Step", "correct": true }
+  },
+  {
+    "question": "Berhenti",
+    "a": { "answer": "Stop", "correct": true },
+    "b": { "answer": "Move", "correct": false }
+  },
+  {
+    "question": "Belajar",
+    "a": { "answer": "Read", "correct": false },
+    "b": { "answer": "Study", "correct": true }
+  },
+  {
+    "question": "Mengganti",
+    "a": { "answer": "Share", "correct": false },
+    "b": { "answer": "Substitute", "correct": true }
+  },
+  {
+    "question": "Menganjurkan",
+    "a": { "answer": "Suggest", "correct": true },
+    "b": { "answer": "Scare", "correct": false }
+  },
+  {
+    "question": "Mengejutkan",
+    "a": { "answer": "Persuade", "correct": false },
+    "b": { "answer": "Suprising", "correct": true }
+  },
+  {
+    "question": "Berbicara",
+    "a": { "answer": "Talk", "correct": true },
+    "b": { "answer": "Try", "correct": false }
+  },
+  {
+    "question": "Merasakan",
+    "a": { "answer": "Taste", "correct": true },
+    "b": { "answer": "Spell", "correct": false }
+  },
+  {
+    "question": "Menyentuh",
+    "a": { "answer": "Taste", "correct": false },
+    "b": { "answer": "Touch", "correct": true }
+  },
+  {
+    "question": "Bepergian",
+    "a": { "answer": "Travel", "correct": true },
+    "b": { "answer": "Turn", "correct": false }
+  },
+  {
+    "question": "Mencoba",
+    "a": { "answer": "Talk", "correct": false },
+    "b": { "answer": "Try", "correct": true }
+  },
+  {
+    "question": "Berbelok",
+    "a": { "answer": "Underline", "correct": false },
+    "b": { "answer": "Turn", "correct": true }
+  },
+  {
+    "question": "Menggunakan",
+    "a": { "answer": "Give", "correct": false },
+    "b": { "answer": "Use", "correct": true }
+  },
+  {
+    "question": "Berjalan",
+    "a": { "answer": "Walk", "correct": true },
+    "b": { "answer": "Run", "correct": false }
+  },
+  {
+    "question": "Ingin",
+    "a": { "answer": "Want", "correct": true },
+    "b": { "answer": "Return", "correct": false }
+  },
+  {
+    "question": "Memperingatkan",
+    "a": { "answer": "Danger", "correct": false },
+    "b": { "answer": "Warn", "correct": true }
+  },
+  {
+    "question": "Mencuci",
+    "a": { "answer": "Wash", "correct": true },
+    "b": { "answer": "Water", "correct": false }
+  },
+  {
+    "question": "Menonton",
+    "a": { "answer": "Watch", "correct": true },
+    "b": { "answer": "Listen", "correct": false }
+  },
+  {
+    "question": "Menyambut",
+    "a": { "answer": "Well played", "correct": false },
+    "b": { "answer": "Welcome", "correct": true }
+  },
+  {
+    "question": "Berharap",
+    "a": { "answer": "Wish", "correct": true },
+    "b": { "answer": "Worry", "correct": false }
+  },
+  {
+    "question": "Memaafkan",
+    "a": { "answer": "Give up", "correct": false },
+    "b": { "answer": "Forgive", "correct": true }
+  },
+  {
+    "question": "Melempar",
+    "a": { "answer": "Throw", "correct": true },
+    "b": { "answer": "Pull", "correct": false }
+  },
+  {
+    "question": "Membelah",
+    "a": { "answer": "Wish", "correct": false },
+    "b": { "answer": "Cleave", "correct": true }
+  },
+  {
+    "question": "Berjanji",
+    "a": { "answer": "Promised", "correct": true },
+    "b": { "answer": "Missed", "correct": false }
+  },
+  {
+    "question": "Setelah",
+    "a": { "answer": "Before", "correct": false },
+    "b": { "answer": "After", "correct": true }
+  },
+  {
+    "question": "Sebelum",
+    "a": { "answer": "Before", "correct": true },
+    "b": { "answer": "After", "correct": false }
+  },
+  {
+    "question": "Mengemis",
+    "a": { "answer": "Pardon", "correct": false },
+    "b": { "answer": "Beg", "correct": true }
+  },
+  {
+    "question": "Mulai",
+    "a": { "answer": "End", "correct": false },
+    "b": { "answer": "Begin", "correct": true }
+  },
+  {
+    "question": "Awal",
+    "a": { "answer": "Beginning", "correct": true },
+    "b": { "answer": "Boil", "correct": false }
+  },
+  {
+    "question": "Kepentingan",
+    "a": { "answer": "Begin", "correct": false },
+    "b": { "answer": "Behalf", "correct": true }
+  },
+  {
+    "question": "Di belakang",
+    "a": { "answer": "Behind", "correct": true },
+    "b": { "answer": "Beside", "correct": false }
+  },
+  {
+    "question": "Makhluk",
+    "a": { "answer": "Being", "correct": true },
+    "b": { "answer": "Animal", "correct": false }
+  },
+  {
+    "question": "Keyakinan",
+    "a": { "answer": "Divide", "correct": false },
+    "b": { "answer": "Belief", "correct": true }
+  },
+  {
+    "question": "Bel",
+    "a": { "answer": "Bell", "correct": true },
+    "b": { "answer": "Trumpet", "correct": false }
+  },
+  {
+    "question": "Perut",
+    "a": { "answer": "Chest", "correct": false },
+    "b": { "answer": "Belly", "correct": true }
+  },
+  {
+    "question": "Milik",
+    "a": { "answer": "Belong", "correct": true },
+    "b": { "answer": "Along", "correct": false }
+  },
+  {
+    "question": "di bawah",
+    "a": { "answer": "Over", "correct": false },
+    "b": { "answer": "Below", "correct": true }
+  },
+  {
+    "question": "sabuk",
+    "a": { "answer": "Belt", "correct": true },
+    "b": { "answer": "Tie", "correct": false }
+  },
+  {
+    "question": "bangku",
+    "a": { "answer": "Roof", "correct": false },
+    "b": { "answer": "Bench", "correct": true }
+  },
+  {
+    "question": "menekuk",
+    "a": { "answer": "Bend", "correct": true },
+    "b": { "answer": "Straight", "correct": false }
+  },
+  {
+    "question": "di bawah",
+    "a": { "answer": "Behind", "correct": false },
+    "b": { "answer": "Beneath", "correct": true }
+  },
+  {
+    "question": "manfaat",
+    "a": { "answer": "Benefit", "correct": true },
+    "b": { "answer": "Between", "correct": false }
+  },
+  {
+    "question": "di samping",
+    "a": { "answer": "Behind", "correct": false },
+    "b": { "answer": "Beside", "correct": true }
+  },
+  {
+    "question": "selain",
+    "a": { "answer": "Besides", "correct": true },
+    "b": { "answer": "Actually", "correct": false }
+  },
+  {
+    "question": "terbaik",
+    "a": { "answer": "Bored", "correct": false },
+    "b": { "answer": "Best", "correct": true }
+  },
+  {
+    "question": "bertaruh",
+    "a": { "answer": "Bet", "correct": true },
+    "b": { "answer": "Bath", "correct": false }
+  },
+  {
+    "question": "lebih baik",
+    "a": { "answer": "Better", "correct": true },
+    "b": { "answer": "Letter", "correct": false }
+  },
+  {
+    "question": "antara",
+    "a": { "answer": "Behalf", "correct": false },
+    "b": { "answer": "Between", "correct": true }
+  },
+  {
+    "question": "luar",
+    "a": { "answer": "Beyond", "correct": true },
+    "b": { "answer": "Behold", "correct": false }
+  },
+  {
+    "question": "sepeda",
+    "a": { "answer": "Wheel", "correct": false },
+    "b": { "answer": "Bicycle", "correct": true }
+  },
+  {
+    "question": "bilah",
+    "a": { "answer": "Blade", "correct": true },
+    "b": { "answer": "Iron", "correct": false }
+  },
+  {
+    "question": "Pucat",
+    "a": { "answer": "White", "correct": false },
+    "b": { "answer": "Blanche", "correct": true }
+  },
+  {
+    "question": "Kosong",
+    "a": { "answer": "Blank", "correct": true },
+    "b": { "answer": "Rough", "correct": false }
+  },
+  {
+    "question": "Campuran",
+    "a": { "answer": "Blind", "correct": false },
+    "b": { "answer": "Blend", "correct": true }
+  },
+  {
+    "question": "Memberkati",
+    "a": { "answer": "Bless", "correct": true },
+    "b": { "answer": "Bend", "correct": false }
+  },
+  {
+    "question": "Berkat",
+    "a": { "answer": "Harassing", "correct": false },
+    "b": { "answer": "Blessing", "correct": true }
+  },
+  {
+    "question": "Buta",
+    "a": { "answer": "Blind", "correct": true },
+    "b": { "answer": "Blond", "correct": false }
+  },
+  {
+    "question": "Berkedip",
+    "a": { "answer": "Pierce", "correct": false },
+    "b": { "answer": "Blink", "correct": true }
+  },
+  {
+    "question": "Memblokir",
+    "a": { "answer": "Lock", "correct": false },
+    "b": { "answer": "Block", "correct": true }
+  },
+  {
+    "question": "berambut pirang",
+    "a": { "answer": "Blond", "correct": true },
+    "b": { "answer": "Bond", "correct": false }
+  },
+  {
+    "question": "Tulang",
+    "a": { "answer": "Bone", "correct": true },
+    "b": { "answer": "Tone", "correct": false }
+  },
+  {
+    "question": "Darah",
+    "a": { "answer": "Flood", "correct": false },
+    "b": { "answer": "Blood", "correct": true }
+  },
+  {
+    "question": "Berdarah",
+    "a": { "answer": "Bloody", "correct": true },
+    "b": { "answer": "Injured", "correct": false }
+  },
+  {
+    "question": "Meniup",
+    "a": { "answer": "Suck", "correct": false },
+    "b": { "answer": "Blow", "correct": true }
+  },
+  {
+    "question": "lebih awal",
+    "a": { "answer": "Early", "correct": true },
+    "b": { "answer": "Late", "correct": false }
+  },
+  {
+    "question": "penghasilan",
+    "a": { "answer": "Earnings", "correct": true },
+    "b": { "answer": "Spending", "correct": false }
+  },
+  {
+    "question": "bumi",
+    "a": { "answer": "Sky", "correct": false },
+    "b": { "answer": "Earth", "correct": true }
+  },
+  {
+    "question": "gempa bumi",
+    "a": { "answer": "Earthquake", "correct": true },
+    "b": { "answer": "Earthlings", "correct": false }
+  },
+  {
+    "question": "meringankan",
+    "a": { "answer": "Ease", "correct": true },
+    "b": { "answer": "East", "correct": false }
+  },
+  {
+    "question": "mudah",
+    "a": { "answer": "Difficult", "correct": false },
+    "b": { "answer": "Easy", "correct": true }
+  },
+  {
+    "question": "timur",
+    "a": { "answer": "East", "correct": true },
+    "b": { "answer": "South", "correct": false }
+  },
+  {
+    "question": "makan",
+    "a": { "answer": "Meat", "correct": false },
+    "b": { "answer": "Eat", "correct": true }
+  },
+  {
+    "question": "makanan",
+    "a": { "answer": "Food", "correct": true },
+    "b": { "answer": "Noodle", "correct": false }
+  },
+  {
+    "question": "gema",
+    "a": { "answer": "Voice", "correct": false },
+    "b": { "answer": "Echo", "correct": true }
+  },
+  {
+    "question": "tepi",
+    "a": { "answer": "Edge", "correct": true },
+    "b": { "answer": "Middle", "correct": false }
+  },
+  {
+    "question": "pendidikan",
+    "a": { "answer": "Population", "correct": false },
+    "b": { "answer": "Education", "correct": true }
+  },
+  {
+    "question": "pendidik",
+    "a": { "answer": "Educator", "correct": true },
+    "b": { "answer": "Emulator", "correct": false }
+  },
+  {
+    "question": "usaha",
+    "a": { "answer": "Comfort", "correct": false },
+    "b": { "answer": "Effort", "correct": true }
+  },
+  {
+    "question": "telur",
+    "a": { "answer": "Egg", "correct": true },
+    "b": { "answer": "Rice", "correct": false }
+  },
+  {
+    "question": "delapan",
+    "a": { "answer": "Eight", "correct": true },
+    "b": { "answer": "Eighteen", "correct": false }
+  },
+  {
+    "question": "salah satu",
+    "a": { "answer": "Either", "correct": true },
+    "b": { "answer": "None", "correct": false }
+  },
+  {
+    "question": "kain",
+    "a": { "answer": "Fabric", "correct": true },
+    "b": { "answer": "Foam", "correct": false }
+  },
+  {
+    "question": "wajah",
+    "a": { "answer": "Forehead", "correct": false },
+    "b": { "answer": "Face", "correct": true }
+  },
+  {
+    "question": "memudahkan",
+    "a": { "answer": "Complicate", "correct": false },
+    "b": { "answer": "Facilitate", "correct": true }
+  },
+  {
+    "question": "fasilitas",
+    "a": { "answer": "Accesibility", "correct": false },
+    "b": { "answer": "Facility", "correct": true }
+  },
+  {
+    "question": "fakta",
+    "a": { "answer": "Fact", "correct": true },
+    "b": { "answer": "Paper", "correct": false }
+  },
+  {
+    "question": "pabrik",
+    "a": { "answer": "Building", "correct": false },
+    "b": { "answer": "Factory", "correct": true }
+  },
+  {
+    "question": "fakultas",
+    "a": { "answer": "Faculty", "correct": true },
+    "b": { "answer": "Factory", "correct": false }
+  },
+  {
+    "question": "luntur",
+    "a": { "answer": "Fade", "correct": true },
+    "b": { "answer": "Fillthy", "correct": false }
+  },
+  {
+    "question": "gagal",
+    "a": { "answer": "Win", "correct": false },
+    "b": { "answer": "Fail", "correct": true }
+  },
+  {
+    "question": "kegagalan",
+    "a": { "answer": "Failure", "correct": true },
+    "b": { "answer": "Damage", "correct": false }
+  },
+  {
+    "question": "lemah",
+    "a": { "answer": "Slight", "correct": false },
+    "b": { "answer": "Weak", "correct": true }
+  },
+  {
+    "question": "adil",
+    "a": { "answer": "Fair", "correct": true },
+    "b": { "answer": "Fail", "correct": false }
+  },
+  {
+    "question": "cukup",
+    "a": { "answer": "Deficient", "correct": false },
+    "b": { "answer": "Enough", "correct": true }
+  },
+  {
+    "question": "iman",
+    "a": { "answer": "Faith", "correct": true },
+    "b": { "answer": "Faint", "correct": false }
+  },
+  {
+    "question": "jatuh",
+    "a": { "answer": "Fall", "correct": true },
+    "b": { "answer": "Feel", "correct": false }
+  },
+  {
+    "question": "ketenaran",
+    "a": { "answer": "Fail", "correct": false },
+    "b": { "answer": "Fame", "correct": true }
+  },
+  {
+    "question": "akrab",
+    "a": { "answer": "Family", "correct": false },
+    "b": { "answer": "Familiar", "correct": true }
+  },
+  {
+    "question": "keluarga",
+    "a": { "answer": "Famous", "correct": false },
+    "b": { "answer": "Family", "correct": true }
+  },
+  {
+    "question": "terkenal",
+    "a": { "answer": "Famous", "correct": true },
+    "b": { "answer": "Serious", "correct": false }
+  },
+  {
+    "question": "kipas",
+    "a": { "answer": "Far", "correct": false },
+    "b": { "answer": "Fan", "correct": true }
+  },
+  {
+    "question": "jauh",
+    "a": { "answer": "Far", "correct": true },
+    "b": { "answer": "Car", "correct": false }
+  },
+  {
+    "question": "tarif",
+    "a": { "answer": "Pay", "correct": false },
+    "b": { "answer": "Fare", "correct": true }
+  },
+  {
+    "question": "bertani",
+    "a": { "answer": "Field", "correct": false },
+    "b": { "answer": "Farm", "correct": true }
+  },
+  {
+    "question": "petani",
+    "a": { "answer": "Farmer", "correct": true },
+    "b": { "answer": "Gardener", "correct": false }
+  },
+  {
+    "question": "sangat menarik",
+    "a": { "answer": "Fashion", "correct": false },
+    "b": { "answer": "Fascinating", "correct": true }
+  },
+  {
+    "question": "cepat",
+    "a": { "answer": "Fast", "correct": true },
+    "b": { "answer": "Going", "correct": false }
+  },
+  {
+    "question": "lebih cepat",
+    "a": { "answer": "Faster", "correct": true },
+    "b": { "answer": "Master", "correct": false }
+  },
+  {
+    "question": "lemak",
+    "a": { "answer": "Fluid", "correct": false },
+    "b": { "answer": "Fat", "correct": true }
+  },
+  {
+    "question": "nasib",
+    "a": { "answer": "Fate", "correct": true },
+    "b": { "answer": "Dream", "correct": false }
+  },
+  {
+    "question": "ayah",
+    "a": { "answer": "Father", "correct": true },
+    "b": { "answer": "Feature", "correct": false }
+  },
+  {
+    "question": "kelelahan",
+    "a": { "answer": "Spirited", "correct": false },
+    "b": { "answer": "Fatigue", "correct": true }
+  },
+  {
+    "question": "kesalahan",
+    "a": { "answer": "Foul", "correct": false },
+    "b": { "answer": "Fault", "correct": true }
+  },
+  {
+    "question": "mendukung",
+    "a": { "answer": "Chant", "correct": false },
+    "b": { "answer": "Support", "correct": true }
+  },
+  {
+    "question": "baik",
+    "a": { "answer": "Favorable", "correct": true },
+    "b": { "answer": "Malevolent", "correct": false }
+  },
+  {
+    "question": "bulu",
+    "a": { "answer": "Wings", "correct": false },
+    "b": { "answer": "Feather", "correct": true }
+  },
+  {
+    "question": "ciri",
+    "a": { "answer": "Feather", "correct": false },
+    "b": { "answer": "Feature", "correct": true }
+  },
+  {
+    "question": "bendera",
+    "a": { "answer": "Flag", "correct": true },
+    "b": { "answer": "Plane", "correct": false }
+  },
+  {
+    "question": "api",
+    "a": { "answer": "Flame", "correct": true },
+    "b": { "answer": "Blame", "correct": false }
+  },
+  {
+    "question": "datar",
+    "a": { "answer": "Wide", "correct": false },
+    "b": { "answer": "Flat", "correct": true }
+  },
+  {
+    "question": "melarikan diri",
+    "a": { "answer": "Flee", "correct": true },
+    "b": { "answer": "Fly", "correct": false }
+  },
+  {
+    "question": "armada kapal",
+    "a": { "answer": "Flat", "correct": false },
+    "b": { "answer": "Fleet", "correct": true }
+  },
+  {
+    "question": "penerbangan",
+    "a": { "answer": "Might", "correct": false },
+    "b": { "answer": "Flight", "correct": true }
+  },
+  {
+    "question": "membalik",
+    "a": { "answer": "Flop", "correct": false },
+    "b": { "answer": "Flip", "correct": true }
+  },
+  {
+    "question": "mengapung",
+    "a": { "answer": "Float", "correct": true },
+    "b": { "answer": "Flash", "correct": false }
+  },
+  {
+    "question": "lantai",
+    "a": { "answer": "Floor", "correct": true },
+    "b": { "answer": "Dooe", "correct": false }
+  },
+  {
+    "question": "tepung",
+    "a": { "answer": "Flavor", "correct": false },
+    "b": { "answer": "Flour", "correct": true }
+  },
+  {
+    "question": "semua orang",
+    "a": { "answer": "Everyday", "correct": false },
+    "b": { "answer": "Everybody", "correct": true }
+  },
+  {
+    "question": "sehari-hari",
+    "a": { "answer": "Everyday", "correct": true },
+    "b": { "answer": "Everyone", "correct": false }
+  },
+  {
+    "question": "semua orang",
+    "a": { "answer": "Everything", "correct": false },
+    "b": { "answer": "Everyone", "correct": true }
+  },
+  {
+    "question": "semuanya",
+    "a": { "answer": "Everything", "correct": true },
+    "b": { "answer": "Everyday", "correct": false }
+  },
+  {
+    "question": "di mana-mana",
+    "a": { "answer": "Everywhere", "correct": true },
+    "b": { "answer": "Everything", "correct": false }
+  },
+  {
+    "question": "bukti",
+    "a": { "answer": "Evolve", "correct": false },
+    "b": { "answer": "Evidence", "correct": true }
+  },
+  {
+    "question": "jelas",
+    "a": { "answer": "Evident", "correct": true },
+    "b": { "answer": "Dentist", "correct": false }
+  },
+  {
+    "question": "ternyata",
+    "a": { "answer": "Everything", "correct": false },
+    "b": { "answer": "Evidently", "correct": true }
+  },
+  {
+    "question": "jahat",
+    "a": { "answer": "Wicked", "correct": true },
+    "b": { "answer": "Wizard", "correct": false }
+  },
+  {
+    "question": "evolusi",
+    "a": { "answer": "Lotion", "correct": false },
+    "b": { "answer": "Evolution", "correct": true }
+  },
+  {
+    "question": "berkembang",
+    "a": { "answer": "Evolve", "correct": true },
+    "b": { "answer": "Erotion", "correct": false }
+  },
+  {
+    "question": "tepat",
+    "a": { "answer": "Exam", "correct": false },
+    "b": { "answer": "Exact", "correct": true }
+  },
+  {
+    "question": "persis",
+    "a": { "answer": "Exactly", "correct": true },
+    "b": { "answer": "Examine", "correct": false }
+  },
+  {
+    "question": "ujian",
+    "a": { "answer": "Exit", "correct": false },
+    "b": { "answer": "Exam", "correct": true }
+  },
+  {
+    "question": "pemeriksaan",
+    "a": { "answer": "Excellent", "correct": false },
+    "b": { "answer": "Examination", "correct": true }
+  },
+  {
+    "question": "meneliti",
+    "a": { "answer": "Examine", "correct": true },
+    "b": { "answer": "Exhaust", "correct": false }
+  },
+  {
+    "question": "contoh",
+    "a": { "answer": "Examine", "correct": false },
+    "b": { "answer": "Example", "correct": true }
+  },
+  {
+    "question": "Knalpot",
+    "a": { "answer": "Examine", "correct": false },
+    "b": { "answer": "Exhaust", "correct": true }
+  },
+  {
+    "question": "Biasa",
+    "a": { "answer": "Origin", "correct": false },
+    "b": { "answer": "Ordinary", "correct": true }
+  },
+  {
+    "question": "Asli",
+    "a": { "answer": "Outstanding", "correct": false },
+    "b": { "answer": "Original", "correct": true }
+  },
+  {
+    "question": "Lain",
+    "a": { "answer": "Other", "correct": true },
+    "b": { "answer": "Some", "correct": false }
+  },
+  {
+    "question": "Terpencil",
+    "a": { "answer": "Isolated", "correct": true },
+    "b": { "answer": "Crowded", "correct": false }
+  },
+  {
+    "question": "Ramah",
+    "a": { "answer": "Shy", "correct": false },
+    "b": { "answer": "Friendly", "correct": true }
+  },
+  {
+    "question": "Aneh",
+    "a": { "answer": "Funny", "correct": false },
+    "b": { "answer": "Strange", "correct": true }
+  },
+  {
+    "question": "Memalukan",
+    "a": { "answer": "Outrageous", "correct": true },
+    "b": { "answer": "Owner", "correct": false }
+  },
+  {
+    "question": "Luar Biasa",
+    "a": { "answer": "Outstanding", "correct": true },
+    "b": { "answer": "Outgoing", "correct": false }
+  },
+  {
+    "question": "Lonjong",
+    "a": { "answer": "Oval", "correct": true },
+    "b": { "answer": "Square", "correct": false }
+  },
+  {
+    "question": "terlalu matang",
+    "a": { "answer": "Overlooked", "correct": false },
+    "b": { "answer": "Overcooked", "correct": true }
+  },
+  {
+    "question": "terlambat",
+    "a": { "answer": "Overload", "correct": false },
+    "b": { "answer": "Overdue", "correct": true }
+  },
+  {
+    "question": "gembira sekali",
+    "a": { "answer": "Overwhelm", "correct": false },
+    "b": { "answer": "Overjoyed", "correct": true }
+  },
+  {
+    "question": "melewatkan",
+    "a": { "answer": "Pause", "correct": false },
+    "b": { "answer": "Skip", "correct": true }
+  },
+  {
+    "question": "luar negeri",
+    "a": { "answer": "Overseas", "correct": true },
+    "b": { "answer": "Oversize", "correct": false }
+  },
+  {
+    "question": "terlalu besar",
+    "a": { "answer": "Overall", "correct": false },
+    "b": { "answer": "Oversize", "correct": true }
+  },
+  {
+    "question": "kepunyaan sendiri",
+    "a": { "answer": "Owl", "correct": false },
+    "b": { "answer": "Own", "correct": true }
+  },
+  {
+    "question": "tanpa pemilik",
+    "a": { "answer": "Ownerless", "correct": true },
+    "b": { "answer": "Owning", "correct": false }
+  },
+  {
+    "question": "berharga",
+    "a": { "answer": "Malicious", "correct": false },
+    "b": { "answer": "Precious", "correct": true }
+  },
+  {
+    "question": "sekarang",
+    "a": { "answer": "Knowing", "correct": false },
+    "b": { "answer": "Now", "correct": true }
+  },
+  {
+    "question": "bergengsi",
+    "a": { "answer": "Prestigious", "correct": true },
+    "b": { "answer": "Present", "correct": false }
+  },
+  {
+    "question": "cantik",
+    "a": { "answer": "Ugly", "correct": false },
+    "b": { "answer": "Pretty", "correct": true }
+  },
+  {
+    "question": "sebelumnya",
+    "a": { "answer": "Prestigious", "correct": false },
+    "b": { "answer": "Previous", "correct": true }
+  },
+  {
+    "question": "utama",
+    "a": { "answer": "Primary", "correct": true },
+    "b": { "answer": "Privilege", "correct": false }
+  },
+  {
+    "question": "unggul",
+    "a": { "answer": "Superior", "correct": true },
+    "b": { "answer": "Inferior", "correct": false }
+  },
+  {
+    "question": "murni",
+    "a": { "answer": "Pristine", "correct": true },
+    "b": { "answer": "Mixed", "correct": false }
+  },
+  {
+    "question": "pribadi",
+    "a": { "answer": "Proud", "correct": false },
+    "b": { "answer": "Private", "correct": true }
+  },
+  {
+    "question": "hadiah",
+    "a": { "answer": "Prize", "correct": true },
+    "b": { "answer": "Price", "correct": false }
+  },
+  {
+    "question": "mungkin",
+    "a": { "answer": "Present", "correct": false },
+    "b": { "answer": "Probably", "correct": true }
+  },
+  {
+    "question": "produktif",
+    "a": { "answer": "Promised", "correct": false },
+    "b": { "answer": "Productive", "correct": true }
+  },
+  {
+    "question": "tepat",
+    "a": { "answer": "Paper", "correct": false },
+    "b": { "answer": "Proper", "correct": true }
+  },
+  {
+    "question": "bangga",
+    "a": { "answer": "Proud", "correct": true },
+    "b": { "answer": "Shroud", "correct": false }
+  },
+  {
+    "question": "murni",
+    "a": { "answer": "Paint", "correct": false },
+    "b": { "answer": "Pure", "correct": true }
+  },
+  {
+    "question": "ungu",
+    "a": { "answer": "Purple", "correct": true },
+    "b": { "answer": "Grey", "correct": false }
+  },
+  {
+    "question": "cat",
+    "a": { "answer": "Paint", "correct": true },
+    "b": { "answer": "Saint", "correct": false }
+  },
+  {
+    "question": "lukisan",
+    "a": { "answer": "Writing", "correct": false },
+    "b": { "answer": "Painting", "correct": true }
+  },
+  {
+    "question": "kertas",
+    "a": { "answer": "Paper", "correct": true },
+    "b": { "answer": "Book", "correct": false }
+  },
+  {
+    "question": "orangtua",
+    "a": { "answer": "Pattern", "correct": false },
+    "b": { "answer": "Parents", "correct": true }
+  },
+  {
+    "question": "kegemaran",
+    "a": { "answer": "Passion", "correct": true },
+    "b": { "answer": "Pretty", "correct": false }
+  },
+  {
+    "question": "kedamaian",
+    "a": { "answer": "Piece", "correct": false },
+    "b": { "answer": "Peace", "correct": true }
+  },
+  {
+    "question": "pena",
+    "a": { "answer": "Pen", "correct": true },
+    "b": { "answer": "Ink", "correct": false }
+  },
+  {
+    "question": "pensil",
+    "a": { "answer": "Pen", "correct": false },
+    "b": { "answer": "Pencil", "correct": true }
+  },
+  {
+    "question": "orang-orang",
+    "a": { "answer": "People", "correct": true },
+    "b": { "answer": "Pupil", "correct": false }
+  },
+  {
+    "question": "lada",
+    "a": { "answer": "Garlic", "correct": false },
+    "b": { "answer": "Pepper", "correct": true }
+  },
+  {
+    "question": "minyak wangi",
+    "a": { "answer": "Perfume", "correct": true },
+    "b": { "answer": "Fame", "correct": false }
+  },
+  {
+    "question": "orang",
+    "a": { "answer": "Brother", "correct": false },
+    "b": { "answer": "Person", "correct": true }
+  },
+  {
+    "question": "bensin",
+    "a": { "answer": "Petrol", "correct": true },
+    "b": { "answer": "Vinegar", "correct": false }
+  },
+  {
+    "question": "foto",
+    "a": { "answer": "Photo", "correct": true },
+    "b": { "answer": "Paint", "correct": false }
+  },
+  {
+    "question": "gambar",
+    "a": { "answer": "Picture", "correct": true },
+    "b": { "answer": "Lecture", "correct": false }
+  },
+  {
+    "question": "kebanggaan",
+    "a": { "answer": "Pride", "correct": true },
+    "b": { "answer": "Prize", "correct": false }
+  },
+  {
+    "question": "masalah",
+    "a": { "answer": "Problem", "correct": true },
+    "b": { "answer": "Probably", "correct": false }
+  },
+  {
+    "question": "kelinci",
+    "a": { "answer": "Mice", "correct": false },
+    "b": { "answer": "Rabbit", "correct": true }
+  },
+  {
+    "question": "sungai",
+    "a": { "answer": "River", "correct": true },
+    "b": { "answer": "Road", "correct": false }
+  },
+  {
+    "question": "jalan",
+    "a": { "answer": "Road", "correct": true },
+    "b": { "answer": "River", "correct": false }
+  },
+  {
+    "question": "balapan",
+    "a": { "answer": "Run", "correct": false },
+    "b": { "answer": "Race", "correct": true }
+  },
+  {
+    "question": "hujan",
+    "a": { "answer": "Rain", "correct": true },
+    "b": { "answer": "Pain", "correct": false }
+  },
+  {
+    "question": "cepat",
+    "a": { "answer": "Slow", "correct": false },
+    "b": { "answer": "Rapid", "correct": true }
+  },
+  {
+    "question": "langka",
+    "a": { "answer": "Rare", "correct": true },
+    "b": { "answer": "Hare", "correct": false }
+  },
+  {
+    "question": "mentah",
+    "a": { "answer": "Paw", "correct": false },
+    "b": { "answer": "Raw", "correct": true }
+  },
+  {
+    "question": "siap",
+    "a": { "answer": "Restart", "correct": false },
+    "b": { "answer": "Ready", "correct": true }
+  },
+  {
+    "question": "nyata",
+    "a": { "answer": "Real", "correct": true },
+    "b": { "answer": "Meal", "correct": false }
+  },
+  {
+    "question": "masuk akal",
+    "a": { "answer": "Reasonable", "correct": true },
+    "b": { "answer": "Questionable", "correct": false }
+  },
+  {
+    "question": "pemberontak",
+    "a": { "answer": "Rebel", "correct": true },
+    "b": { "answer": "Enable", "correct": false }
+  },
+  {
+    "question": "Dipertanyakan",
+    "a": { "answer": "Questionable", "correct": true },
+    "b": { "answer": "Reasonable", "correct": false }
+  },
+  {
+    "question": "persegi panjang",
+    "a": { "answer": "Rectangle", "correct": true },
+    "b": { "answer": "Hexagon", "correct": false }
+  },
+  {
+    "question": "merah",
+    "a": { "answer": "Red", "correct": true },
+    "b": { "answer": "Yellow", "correct": false }
+  },
+  {
+    "question": "hormat",
+    "a": { "answer": "Shame", "correct": false },
+    "b": { "answer": "Respect", "correct": true }
+  },
+  {
+    "question": "bertanggung jawab",
+    "a": { "answer": "Responsible", "correct": true },
+    "b": { "answer": "Respect", "correct": false }
+  },
+  {
+    "question": "kaya",
+    "a": { "answer": "Rich", "correct": true },
+    "b": { "answer": "Many", "correct": false }
+  },
+  {
+    "question": "kanan",
+    "a": { "answer": "Left", "correct": false },
+    "b": { "answer": "Right", "correct": true }
+  },
+  {
+    "question": "panggang",
+    "a": { "answer": "Fry", "correct": true },
+    "b": { "answer": "Roasted", "correct": false }
+  },
+  {
+    "question": "romantis",
+    "a": { "answer": "Roman", "correct": false },
+    "b": { "answer": "Romantic", "correct": true }
+  },
+  {
+    "question": "berputar",
+    "a": { "answer": "Linear", "correct": false },
+    "b": { "answer": "Rotating", "correct": true }
+  },
+  {
+    "question": "bulat",
+    "a": { "answer": "Round", "correct": true },
+    "b": { "answer": "Hollow", "correct": false }
+  },
+  {
+    "question": "Air",
+    "a": { "answer": "Water", "correct": true },
+    "b": { "answer": "Smoke", "correct": false }
+  },
+  {
+    "question": "Paus",
+    "a": { "answer": "Dolphin", "correct": false },
+    "b": { "answer": "Whale", "correct": true }
+  },
+  {
+    "question": "Serigala",
+    "a": { "answer": "Tiger", "correct": false },
+    "b": { "answer": "Wolf", "correct": true }
+  },
+  {
+    "question": "Pekan",
+    "a": { "answer": "Week", "correct": true },
+    "b": { "answer": "Yesterday", "correct": false }
+  },
+  {
+    "question": "Istri",
+    "a": { "answer": "Wife", "correct": true },
+    "b": { "answer": "Husband", "correct": false }
+  },
+  {
+    "question": "Kayu",
+    "a": { "answer": "Wood", "correct": true },
+    "b": { "answer": "Foam", "correct": false }
+  },
+  {
+    "question": "Pekerja",
+    "a": { "answer": "Whisper", "correct": false },
+    "b": { "answer": "Worker", "correct": true }
+  },
+  {
+    "question": "Dunia",
+    "a": { "answer": "Oversea", "correct": false },
+    "b": { "answer": "World", "correct": true }
+  },
+  {
+    "question": "Dinding",
+    "a": { "answer": "Tall", "correct": false },
+    "b": { "answer": "Wall", "correct": true }
+  },
+  {
+    "question": "Perang",
+    "a": { "answer": "Defence", "correct": false },
+    "b": { "answer": "War", "correct": true }
+  },
+  {
+    "question": "Gaji",
+    "a": { "answer": "Debt", "correct": false },
+    "b": { "answer": "Wage", "correct": true }
+  },
+  {
+    "question": "Musim Dingin",
+    "a": { "answer": "Winter", "correct": true },
+    "b": { "answer": "Summer", "correct": false }
+  },
+  {
+    "question": "Nol",
+    "a": { "answer": "Zero", "correct": true },
+    "b": { "answer": "One", "correct": false }
+  },
+  {
+    "question": "Wilayah",
+    "a": { "answer": "Zoo", "correct": false },
+    "b": { "answer": "Zone", "correct": true }
+  },
+  {
+    "question": "Kebun Binatang",
+    "a": { "answer": "Zoo", "correct": true },
+    "b": { "answer": "Sea", "correct": false }
+  },
+  {
+    "question": "Buru-buru",
+    "a": { "answer": "Carry", "correct": false },
+    "b": { "answer": "Hurry", "correct": true }
+  },
+  {
+    "question": "Payung",
+    "a": { "answer": "Umbrella", "correct": true },
+    "b": { "answer": "Coat", "correct": false }
+  },
+  {
+    "question": "Paman",
+    "a": { "answer": "Aunt", "correct": false },
+    "b": { "answer": "Uncle", "correct": true }
+  },
+  {
+    "question": "Pakaian Dalam",
+    "a": { "answer": "Underwear", "correct": true },
+    "b": { "answer": "Clothes", "correct": false }
+  },
+  {
+    "question": "Seragam",
+    "a": { "answer": "Uniform", "correct": true },
+    "b": { "answer": "Tracksuit", "correct": false }
+  },
+  {
+    "question": "Pengguna",
+    "a": { "answer": "User", "correct": true },
+    "b": { "answer": "Admin", "correct": false }
+  },
+  {
+    "question": "Tidak Mampu",
+    "a": { "answer": "Unable", "correct": true },
+    "b": { "answer": "Enable", "correct": false }
+  },
+  {
+    "question": "Tidak Jelas",
+    "a": { "answer": "Undying", "correct": false },
+    "b": { "answer": "Unclear", "correct": true }
+  },
+  {
+    "question": "Lezat",
+    "a": { "answer": "Delicious", "correct": true },
+    "b": { "answer": "Malicious", "correct": false }
+  },
+  {
+    "question": "Tidak Diketahui",
+    "a": { "answer": "Knowing", "correct": false },
+    "b": { "answer": "Unknown", "correct": true }
+  },
+  {
+    "question": "Sial",
+    "a": { "answer": "Unluck", "correct": true },
+    "b": { "answer": "Luck", "correct": false }
+  },
+  {
+    "question": "Tidak Biasa",
+    "a": { "answer": "Unusual", "correct": true },
+    "b": { "answer": "Unfortunately", "correct": false }
+  }
+]
